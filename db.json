@@ -1,7 +1,6 @@
  {
   "Question1": [
     {
-      //question 1
       "question": "Neemt uw bedrijf deel aan het internationale handelsverkeer? ",
       "yesAnswer": "Ja",
       "noAnswer": "Nee",
@@ -11,7 +10,6 @@
   ],
   "Question2": [
     {
-      //question 1
       "question": "U of de bestuurders van het bedrijf zijn niet in het bezit van een strafblad.",
       "yesAnswer": "Ja",
       "noAnswer": "Nee",
